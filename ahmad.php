@@ -1,3 +1,2 @@
 <?
-
-echo 'salam afshin';
+echo "salam afshin";
